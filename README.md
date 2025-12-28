@@ -7,7 +7,7 @@
 
 # 🏪 Projeto Telecom X - Análise de Evasão de Clientes.
 
-Neste desafio fui contratado como assistente de análise de dados na Telecom X e farei parte do projeto "Churn de Clientes". A empresa enfrenta um alto índice de cancelamentos e precisa entender os fatores que levam à perda de clientes.
+Neste desafio fui contratada como assistente de análise de dados na Telecom X e farei parte do projeto "Churn de Clientes". A empresa enfrenta um alto índice de cancelamentos e precisa entender os fatores que levam à perda de clientes.
 
 Meu desafio foi coletar, tratar e analisar os dados, utilizando Python e suas principais bibliotecas para extrair insights valiosos. A partir da minha análise, os demais colegas da equipe de Data Science poderá avançar para modelos preditivos e desenvolver estratégias para reduzir a evasão.
 
