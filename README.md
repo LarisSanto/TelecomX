@@ -93,18 +93,11 @@ A análise permitiu identificar alguns fatores-chave associados à evasão de cl
 
 **Ferramentas Utilizadas**
 
-- Python  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook / Google Colab  
-
-<br>
-
-**Acesso ao Projeto**
-
-- 📓 Notebook: *(adicione o link do GitHub aqui)*  
-- 📎 Google Colab: *(adicione o link aqui)*  
+- Python (linguagem utilizada para análise e manipulação dos dados)
+- Pandas (limpeza, transformação de dados e análise exploratória)
+- Matplotlib (criação de visualizações gráficas)
+- Seaborn (visualizações estatísticas e análise exploratória)
+- Jupyter Notebook / Google Colab (ambiente de desenvolvimento e documentação das análises)
 
 <br>
 
@@ -129,6 +122,13 @@ Com base nos insights obtidos, recomenda-se:
 - 📄 TelecomX_Data.json
 - 📄 TelecomX_dicionario.md
 - 📄 README.md
+
+<br>
+
+**Acesso ao Projeto**
+
+- 📓 Notebook: https://github.com/LarisSanto/TelecomX.git  
+- 📎 Google Colab: https://colab.research.google.com/drive/12JeMfRMwMzKb8XBHdacxGDFqE4xx3Ywn?usp=sharing 
 
 <br>
 <br>
