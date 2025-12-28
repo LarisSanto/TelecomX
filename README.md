@@ -123,10 +123,15 @@ Com base nos insights obtidos, recomenda-se:
 
 **Estrutura do Repositório.**
 
-- 📦 Projeto-Telecom-X
-- 📓 ?????.ipynb               # Notebook completo com ETL, EDA e relatório
-- 📄 README.md                           # Descrição do projeto
+📦 Telecom-X
+- 📓 TelecomX_BR.ipynb
+- 📓 Telecom_X_Análise_de_Evasão_de_Clientes.ipynb
+- 📄 TelecomX_Data.json
+- 📄 TelecomX_dicionario.md
+- 📄 README.md
 
+<br>
+<br>
 
 
 ## 👩🏽 Sobre Mim
