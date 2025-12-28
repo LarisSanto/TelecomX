@@ -13,7 +13,7 @@ Meu desafio foi coletar, tratar e analisar os dados, utilizando Python e suas pr
 
 <br>
 
-**O que irei praticar:**
+**O que foi realizado:**
 
 - Importar e manipular dados de uma API de forma eficiente.
 - Aplicar os conceitos de ETL (Extração, Transformação e Carga) na preparação dos dados.
