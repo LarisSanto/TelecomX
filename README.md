@@ -142,6 +142,7 @@ Este projeto faz parte do meu processo de aprendizado e desenvolvimento pessoal 
 
 Estou super aberta para sugestões e dicas!
 
+
 <br>
 
 ### 📫 Contato
@@ -152,6 +153,7 @@ www.linkedin.com/in/laris-santos
 https://unique-onion-409.notion.site/Ol-meu-nome-Larissa-dos-Santos-1ffae8705fee800499d2fd44643ebcf5?source=copy_link
 
 ✉️ larissa.santos.silva9902@gmail.com
+
 
 
 ---
